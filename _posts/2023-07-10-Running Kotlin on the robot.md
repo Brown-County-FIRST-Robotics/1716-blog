@@ -119,10 +119,6 @@ class Robot : TimedRobot() {
 
 {% endhighlight %}
 
-I was also able to write some code to move the robot with an XBox controller
-in Kotlin but I currently don't have a copy of the code at the moment
-so I will update this post with the code example when I get the chance.
-
 Overall, I had a very good experience with Kotlin, I like the syntax, it works
 seamlessly with Java libraries and fixes many of Java's shortcomings. While our
 team probably is not using Kotlin for this year, I do hope to see Kotlin's future
